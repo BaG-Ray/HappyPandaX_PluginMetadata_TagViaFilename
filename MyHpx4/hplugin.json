@@ -1,0 +1,13 @@
+{
+    "id": "2b0622b0-789f-42a3-b84b-c4005fe03628",
+    "shortname": "ehentaivname5",
+    "name": "EHentai Metadata Via Name5",
+    "version": "1.2.1.5",
+    "description": "A plugin that can fetch metadata from E-Hentai & ExHentai",
+    "author": "Twiddly & Ray",
+    "entry": "main.py",
+    "require": [
+        "happypandax >= 0.10.0",
+        "ehentai-login"
+    ]
+}
