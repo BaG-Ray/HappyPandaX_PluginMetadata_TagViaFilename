@@ -1,0 +1,2 @@
+# HappyPandaX_PluginMetadata_TagViaFilename
+通过文件名的方式来在HappyPandaX中标记Tag
